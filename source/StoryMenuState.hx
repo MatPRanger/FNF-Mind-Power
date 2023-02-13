@@ -19,6 +19,8 @@ import lime.net.curl.CURLCode;
 import flixel.graphics.FlxGraphic;
 import WeekData;
 import openfl.Assets;
+import sys.FileSystem;
+import sys.io.File;
 
 using StringTools;
 
