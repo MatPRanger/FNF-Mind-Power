@@ -67,12 +67,12 @@ class ModsMenuState extends MusicBeatState
 
 	override function create()
 	{
-		
+		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
 		WeekData.setDirectoryFromWeek();
 
-		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 
 		#if desktop
         DiscordClient.changePresence(randomDiscordPrompt, null);
@@ -534,6 +534,15 @@ class ModsMenuState extends MusicBeatState
 			point.set(x, y);
 		}
 	}
+	
+	public function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
 
 	function changeSelection(change:Int = 0)
 	{
@@ -700,15 +709,6 @@ class ModsMenuState extends MusicBeatState
 		canExit = true;
 		trace("File couldn't be loaded! Wtf?");
 	}
-
-	public function getPromptsText():Array<String>
-		{
-		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
-
-		var promptsArray:Array<String> = fullText.split('\n');
-
-		return promptsArray;
-		}
 
 	function onLoadCancel(_):Void
 	{
