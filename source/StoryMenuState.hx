@@ -27,7 +27,7 @@ using StringTools;
 class StoryMenuState extends MusicBeatState
 {
 	public static var weekCompleted:Map<String, Bool> = new Map<String, Bool>();
-	public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+	
 
 	var scoreText:FlxText;
 
@@ -55,6 +55,7 @@ class StoryMenuState extends MusicBeatState
 
 	override function create()
 	{
+		public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
 
