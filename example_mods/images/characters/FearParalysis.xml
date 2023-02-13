@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FEAR_Paralysis.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fear Idle0000" x="10" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0001" x="434" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0002" x="858" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0003" x="1282" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0004" x="1706" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0005" x="2130" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0006" x="2554" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0007" x="2978" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0008" x="3402" y="10" width="414" height="784"/>
+	<SubTexture name="Fear Idle0009" x="10" y="804" width="414" height="784"/>
+	<SubTexture name="Fear Idle0010" x="434" y="804" width="414" height="784"/>
+	<SubTexture name="Fear Idle0011" x="858" y="804" width="414" height="784"/>
+	<SubTexture name="Fear Idle0012" x="1282" y="804" width="414" height="784"/>
+	<SubTexture name="Fear Idle0013" x="1706" y="804" width="414" height="784"/>
+</TextureAtlas>

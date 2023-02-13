@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Song 1",
+			"monster",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"Song 2",
+			"monster",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"Song 3",
+			"Monster",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Destiny Dunes",
+	"weekName": "MPWeek3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": false
+}

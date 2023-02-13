@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": null,
+		"player1": "carmine",
+		"player2": "her",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"NormalDeath",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chloe",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Her"
+	}
+}

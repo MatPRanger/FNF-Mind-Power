@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Red Down Sus"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Red Idle Sus"
+		},
+		{
+			"offsets": [
+				-1,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Red Up Sus"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Red Right Sus",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Red Left Sus",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Carmine-sus",
+	"position": [
+		123,
+		40
+	],
+	"healthicon": "carmine",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		21,
+		21
+	],
+	"camera_position": [
+		-130,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

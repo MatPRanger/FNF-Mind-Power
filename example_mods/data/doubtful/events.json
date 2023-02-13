@@ -1,0 +1,379 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "doubtful",
+		"player1": "carminvisible",
+		"player2": "doubtful",
+		"player3": null,
+		"events": [
+			[
+				61440,
+				[
+					[
+						"Play Animation",
+						"bgdark",
+						""
+					]
+				]
+			],
+			[
+				61920,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				62880,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				63840,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				65760,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				66720,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				67680,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				68640,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				70560,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				71520,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				72480,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				73440,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				75360,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				76320,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Play Animation",
+						"bgstatic",
+						""
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Play Animation",
+						"bgdark",
+						""
+					]
+				]
+			],
+			[
+				123360,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				124320,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				125280,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				126240,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				128160,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				129120,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				130080,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				131040,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				132960,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				133920,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				134880,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				135840,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				137760,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				138240,
+				[
+					[
+						"Play Animation",
+						"bgstatic",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 125,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Doubtful"
+	}
+}

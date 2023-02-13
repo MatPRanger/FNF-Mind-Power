@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="question.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="question0000" x="10" y="10" width="1644" height="480"/>
+	<SubTexture name="question0001" x="10" y="500" width="1644" height="480"/>
+	<SubTexture name="question0002" x="10" y="500" width="1644" height="480"/>
+	<SubTexture name="question0003" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0004" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0005" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0006" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0007" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0008" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0009" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0010" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0011" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0012" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0013" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0014" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0015" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0016" x="10" y="990" width="1644" height="480"/>
+	<SubTexture name="question0017" x="10" y="990" width="1644" height="480"/>
+</TextureAtlas>

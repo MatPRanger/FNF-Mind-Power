@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CarmFace Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CarmFace Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CarmFace Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CarmFace Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CarmFace Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CarmineParalysis",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "Carmine",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		60
+	],
+	"camera_position": [
+		-140,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

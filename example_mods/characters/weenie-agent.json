@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Agent Idle"
+		},
+		{
+			"offsets": [
+				-116,
+				-230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Agent leFT"
+		},
+		{
+			"offsets": [
+				-146,
+				-235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Agent Down"
+		},
+		{
+			"offsets": [
+				-145,
+				-205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Agent cum"
+		},
+		{
+			"offsets": [
+				-134,
+				-221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Agent right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Weenie_Agent",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "garield",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		51
+	],
+	"camera_position": [
+		100,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

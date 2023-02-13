@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Carmine_Paralysis.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CarmFace Down0000" x="10" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0001" x="509" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0002" x="1008" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0003" x="1507" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0004" x="2006" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0005" x="2505" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0006" x="3004" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0007" x="3503" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0008" x="4002" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Down0009" x="4501" y="10" width="489" height="625"/>
+	<SubTexture name="CarmFace Idle0000" x="5000" y="10" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0001" x="5549" y="10" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0002" x="6098" y="10" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0003" x="6647" y="10" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0004" x="7196" y="10" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0005" x="10" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0006" x="559" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0007" x="1108" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0008" x="1657" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0009" x="2206" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0010" x="2755" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0011" x="3304" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0012" x="3853" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Idle0013" x="4402" y="645" width="539" height="608"/>
+	<SubTexture name="CarmFace Left0000" x="4951" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0001" x="5484" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0002" x="6017" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0003" x="6550" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0004" x="7083" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0005" x="7616" y="645" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0006" x="10" y="1263" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0007" x="543" y="1263" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0008" x="1076" y="1263" width="523" height="577"/>
+	<SubTexture name="CarmFace Left0009" x="1609" y="1263" width="523" height="577"/>
+	<SubTexture name="CarmFace Right0000" x="2142" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0001" x="2646" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0002" x="3150" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0003" x="3654" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0004" x="4158" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0005" x="4662" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0006" x="5166" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0007" x="5670" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0008" x="6174" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Right0009" x="6678" y="1263" width="494" height="579"/>
+	<SubTexture name="CarmFace Up0000" x="7182" y="1263" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0001" x="7685" y="1263" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0002" x="10" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0003" x="513" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0004" x="1016" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0005" x="1519" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0006" x="2022" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0007" x="2525" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0008" x="3028" y="1864" width="493" height="591"/>
+	<SubTexture name="CarmFace Up0009" x="3531" y="1864" width="493" height="591"/>
+</TextureAtlas>

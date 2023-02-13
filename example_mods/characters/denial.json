@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Denial Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Denial Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Denial Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Denial Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Denial Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Denial",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "denial",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		21,
+		21
+	],
+	"camera_position": [
+		60,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

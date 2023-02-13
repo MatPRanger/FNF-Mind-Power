@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Song 1",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Argument",
+			"jade",
+			[
+				95,
+				175,
+				115
+			]
+		],
+		[
+			"Denied",
+			"denial",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Mount Memory",
+	"weekName": "MPWeek2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": false
+}

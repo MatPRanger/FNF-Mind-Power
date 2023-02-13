@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Doubt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Doubt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Doubt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Doubt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Doubt Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doubtful",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "doubt",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-140,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
