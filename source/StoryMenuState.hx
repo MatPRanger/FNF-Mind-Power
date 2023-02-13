@@ -53,7 +53,7 @@ class StoryMenuState extends MusicBeatState
 
 	var loadedWeeks:Array<WeekData> = [];
 
-	function getPromptsText():Array<String>
+	public function getPromptsText():Array<String>
 		{
 		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
 
