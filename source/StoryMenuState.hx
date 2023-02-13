@@ -53,15 +53,6 @@ class StoryMenuState extends MusicBeatState
 
 	var loadedWeeks:Array<WeekData> = [];
 
-	public function getPromptsText():Array<String>
-		{
-		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
-
-		var promptsArray:Array<String> = fullText.split('\n');
-
-		return promptsArray;
-		}
-
 	override function create()
 	{
 		Paths.clearStoredMemory();
@@ -384,6 +375,15 @@ class StoryMenuState extends MusicBeatState
 
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;
+
+	function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
 
 	function changeWeek(change:Int = 0):Void
 	{
