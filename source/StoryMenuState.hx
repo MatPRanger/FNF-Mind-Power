@@ -376,7 +376,7 @@ class StoryMenuState extends MusicBeatState
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;
 
-	function getPromptsText():Array<String>
+	public function getPromptsText():Array<String>
 		{
 		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
 
