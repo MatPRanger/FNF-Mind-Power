@@ -47,7 +47,6 @@ class ModsMenuState extends MusicBeatState
 	var needaReset = false;
 	private static var curSelected:Int = 0;
 	public static var defaultColor:FlxColor = 0xFF665AFF;
-	public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 
 	var buttonDown:FlxButton;
 	var buttonTop:FlxButton;
@@ -71,6 +70,8 @@ class ModsMenuState extends MusicBeatState
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
 		WeekData.setDirectoryFromWeek();
+
+		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 
 		#if desktop
         DiscordClient.changePresence(randomDiscordPrompt, null);
@@ -698,6 +699,15 @@ class ModsMenuState extends MusicBeatState
 		canExit = true;
 		trace("File couldn't be loaded! Wtf?");
 	}
+
+	public function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
 
 	function onLoadCancel(_):Void
 	{
