@@ -29,6 +29,9 @@ class AchievementsMenuState extends MusicBeatState
 	public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 
 	override function create() {
+
+		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+
 		#if desktop
         DiscordClient.changePresence(randomDiscordPrompt, null);
 		#end 
@@ -99,6 +102,15 @@ class AchievementsMenuState extends MusicBeatState
 			MusicBeatState.switchState(new MainMenuState());
 		}
 	}
+
+	public function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
 
 	function changeSelection(change:Int = 0) {
 		curSelected += change;
