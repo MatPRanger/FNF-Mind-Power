@@ -29,7 +29,6 @@ class AchievementsMenuState extends MusicBeatState
 	private var achievementArray:Array<AttachedAchievement> = [];
 	private var achievementIndex:Array<Int> = [];
 	private var descText:FlxText;
-	public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 
 	override function create() {
 
@@ -106,6 +105,7 @@ class AchievementsMenuState extends MusicBeatState
 		}
 	}
 
+
 	public function getPromptsText():Array<String>
 		{
 		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
@@ -114,7 +114,7 @@ class AchievementsMenuState extends MusicBeatState
 
 		return promptsArray;
 		}
-
+	
 	function changeSelection(change:Int = 0) {
 		curSelected += change;
 		if (curSelected < 0)
