@@ -93,7 +93,7 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Mind Power Team'],
 			['MPRanger',			'mpranger',	'Main Director/Composer/Artist/Animator/Writer\nVoice of Carmine/Fiora/Boss Monsters/Mellow',	'https://www.youtube.com/channel/UCOGaDCuI7__vtwgtQ4LL5Bg',	'F15656'],
-			['MBeniaminS',			'mati',		'The Epic Coder\nVoice of Mati',	'https://twitter.com/MBeniaminS',	'#FFA500'],
+			['MBeniaminS',			'mati',		'The Epic Coder\nVoice of Mati',	'https://twitter.com/MBeniaminS',	'FFA500'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
