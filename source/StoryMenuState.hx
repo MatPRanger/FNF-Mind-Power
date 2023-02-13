@@ -56,6 +56,7 @@ class StoryMenuState extends MusicBeatState
 	override function create()
 	{
 		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
 

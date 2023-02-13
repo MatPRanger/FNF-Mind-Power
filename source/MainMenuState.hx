@@ -20,6 +20,9 @@ import lime.app.Application;
 import Achievements;
 import editors.MasterEditorMenu;
 import flixel.input.keyboard.FlxKey;
+import openfl.Assets;
+import sys.FileSystem;
+import sys.io.File;
 
 using StringTools;
 
@@ -50,6 +53,8 @@ class MainMenuState extends MusicBeatState
 
 	override function create()
 	{
+		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+
 		#if MODS_ALLOWED
 		Paths.pushGlobalMods();
 		#end
@@ -280,6 +285,15 @@ class MainMenuState extends MusicBeatState
 			spr.screenCenter(X);
 		});
 	}
+
+	public function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
 
 	function changeItem(huh:Int = 0)
 	{
