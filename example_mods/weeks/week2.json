@@ -1,4 +1,16 @@
 {
+	"storyName": "Mount Memory",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Song 1",
@@ -28,23 +40,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Mount Memory",
-	"weekName": "MPWeek2",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "week1",
-	"startUnlocked": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "MPWeek2"
 }
