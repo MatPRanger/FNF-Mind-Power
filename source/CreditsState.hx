@@ -25,7 +25,6 @@ class CreditsState extends MusicBeatState
 {
 	var curSelected:Int = -1;
 
-	public var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	private var iconArray:Array<AttachedSprite> = [];
 	private var creditsStuff:Array<Array<String>> = [];
@@ -40,6 +39,8 @@ class CreditsState extends MusicBeatState
 
 	override function create()
 	{
+		var randomDiscordPrompt:String = FlxG.random.getObject(getPromptsText());
+
 		#if desktop
         DiscordClient.changePresence(randomDiscordPrompt, null);
 		#end 
@@ -252,6 +253,16 @@ class CreditsState extends MusicBeatState
 	}
 
 	var moveTween:FlxTween = null;
+
+	public function getPromptsText():Array<String>
+		{
+		var fullText:String = Assets.getText(Paths.txt('discordPromptsText'));
+
+		var promptsArray:Array<String> = fullText.split('\n');
+
+		return promptsArray;
+		}
+
 	function changeSelection(change:Int = 0)
 	{
 		FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
