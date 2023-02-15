@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				52363.6363636364,
+				[
+					[
+						"Change Character",
+						"2",
+						"chloe-cheering"
+					]
+				]
+			],
+			[
+				75636.3636363637,
+				[
+					[
+						"Change Character",
+						"2",
+						"chloe"
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"Change Character",
+						"2",
+						"chloe-cheering"
+					]
+				]
+			],
+			[
+				145454.545454545,
+				[
+					[
+						"Change Character",
+						"2",
+						"chloe"
+					]
+				]
+			]
+		]
+	}
+}
