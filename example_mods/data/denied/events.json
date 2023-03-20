@@ -12,12 +12,27 @@
 				]
 			],
 			[
+				46500,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					]
+				]
+			],
+			[
 				48000,
 				[
 					[
 						"Change Character",
 						"2",
 						"chloe-cheering"
+					],
+					[
+						"Dadbattle Spotlight",
+						"0",
+						""
 					]
 				]
 			],
