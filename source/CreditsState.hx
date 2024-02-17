@@ -92,8 +92,12 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Mind Power Team'],
-			['MPRanger',			'mpranger',	'Main Director/Composer/Artist/Animator/Writer\nVoice of Carmine/Fiora/Boss Monsters/Mellow',	'https://www.youtube.com/channel/UCOGaDCuI7__vtwgtQ4LL5Bg',	'F15656'],
-			['MBeniaminS',			'mati',		'The Epic Coder\nVoice of Mati',	'https://twitter.com/MBeniaminS',	'FFA500'],
+			['MPRanger',			'mpranger',	'Main Director, Composer, Artist, Animator, Writer, Scripter\nVoice of Carmine, Fiora, Boss Monsters, Mellow',	'https://www.youtube.com/channel/UCOGaDCuI7__vtwgtQ4LL5Bg',	'F15656'],
+			['MBeniaminS',			'mati',		'Discord Rich Presence Coder\nVoice of Mati',																	'https://twitter.com/MBeniaminS',							'FFA500'],
+			['Clumch',				'joel',		'Voice of Joel', 																								'',															'FF8E4D'],
+			['Daniel',				'daniel',	'Voice of Daniel',																								'https://twitter.com/danmouragian',							'5AFFD9'],
+			['Telly',				'telly',	'Voice of Chloe',																								'https://twitter.com/tellysayhi',							'8C6AFF'],
+			['Ward',				'ward',		'Voice of Jade',																								'https://twitter.com/wardens_oath',							'C3FF6C'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
