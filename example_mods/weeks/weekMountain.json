@@ -1,0 +1,50 @@
+{
+	"storyName": "Mount Memory",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mountain",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Snowfall",
+			"chloe",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Argument",
+			"jade",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Denied",
+			"denial",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "MPWeek2"
+}

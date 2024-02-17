@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mati Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mati Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mati Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mati Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mati Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				104
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mati LeftMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				181
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mati DownMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				165
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mati UpMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mati RightMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mati",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		140
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

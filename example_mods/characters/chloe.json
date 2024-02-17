@@ -1,43 +1,6 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				-9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "GF FEAR"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-9
-			],
-			"anim": "danceRight",
-			"fps": 24,
-			"name": "Chloe Idle",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13
-			]
-		},
-		{
 			"loop": false,
 			"offsets": [
 				0,
@@ -104,6 +67,31 @@
 			"fps": 24,
 			"name": "Chloe RIGHT",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Chloe Idle"
 		}
 	],
 	"no_antialiasing": false,

@@ -7218,37 +7218,143 @@
 				"bpm": 150
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 150,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 150,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
 				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
 			}
 		],
-		"events": [],
+		"events": [
+			[
+				0,
+				[
+					[
+						"NormalDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"SetCamZoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"SetCamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					],
+					[
+						"ColorFlash",
+						"AAFFFA",
+						"0.5"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
 		"player2": "chloe",
 		"player3": null,
 		"splashSkin": "noteSplashes",

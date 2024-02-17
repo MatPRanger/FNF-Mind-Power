@@ -2,6 +2,16 @@
 	"song": {
 		"events": [
 			[
+				0,
+				[
+					[
+						"BFDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
 				13333.3333333333,
 				[
 					[
@@ -16,18 +26,18 @@
 				[
 					[
 						"Change Character",
-						"bf",
-						"carmine"
-					]
-				]
-			],
-			[
-				16000,
-				[
-					[
-						"Change Character",
 						"dad",
 						"dad"
+					],
+					[
+						"Change Character",
+						"bf",
+						"carmine"
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -38,6 +48,11 @@
 						"Change Character",
 						"bf",
 						"bf"
+					],
+					[
+						"BFDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -58,6 +73,11 @@
 						"Change Character",
 						"bf",
 						"carmine"
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -70,8 +90,8 @@
 						"dad"
 					],
 					[
-						"Dadbattle Spotlight",
-						"1",
+						"SetCamZoom",
+						"0.9",
 						""
 					]
 				]
@@ -98,6 +118,11 @@
 						"Dadbattle Spotlight",
 						"3",
 						""
+					],
+					[
+						"BFDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -113,6 +138,11 @@
 						"Change Character",
 						"bf",
 						"carmine"
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -230,8 +260,8 @@
 				52000,
 				[
 					[
-						"Add Camera Zoom",
-						"0.01",
+						"SetCamZoom",
+						"1",
 						""
 					]
 				]
@@ -250,14 +280,14 @@
 						"chloe-cheering"
 					],
 					[
-						"Add Camera Zoom",
-						"0.01",
+						"SetCamZoom",
+						"0.8",
 						""
 					],
 					[
-						"Dadbattle Spotlight",
-						"0",
-						""
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
 					]
 				]
 			],
@@ -348,6 +378,11 @@
 						"Change Character",
 						"bf",
 						"bf"
+					],
+					[
+						"BFDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -438,6 +473,11 @@
 						"Add Camera Zoom",
 						"0.01",
 						""
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -527,6 +567,11 @@
 					[
 						"Add Camera Zoom",
 						"0.01",
+						""
+					],
+					[
+						"BFDeath",
+						"",
 						""
 					]
 				]
@@ -773,6 +818,11 @@
 						"Add Camera Zoom",
 						"0.01",
 						""
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -938,6 +988,11 @@
 						"Change Character",
 						"2",
 						"chloe"
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
 					]
 				]
 			],
@@ -958,6 +1013,11 @@
 						"Change Character",
 						"bf",
 						"bf"
+					],
+					[
+						"BFDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -968,6 +1028,11 @@
 						"Change Character",
 						"bf",
 						"carmine"
+					],
+					[
+						"NormalDeath",
+						"",
+						""
 					]
 				]
 			],
@@ -988,6 +1053,31 @@
 						"Change Character",
 						"bf",
 						"bf"
+					],
+					[
+						"BFDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"SetCamZoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
 					]
 				]
 			]

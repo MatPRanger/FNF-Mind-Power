@@ -2,7 +2,148 @@
 	"song": {
 		"player1": "carmine",
 		"player2": "chloe",
-		"events": [],
+		"events": [
+			[
+				0,
+				[
+					[
+						"NormalDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12857.1428571429,
+				[
+					[
+						"SetCamZoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				13285.7142857143,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"SetCamZoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				70714.2857142858,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				75428.5714285715,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				77571.4285714286,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				80571.4285714286,
+				[
+					[
+						"SetCamZoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				92571.4285714286,
+				[
+					[
+						"SetCamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -2927,6 +3068,36 @@
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 140
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
 				"altAnim": false,
 				"gfSection": false,
 				"bpm": 140,

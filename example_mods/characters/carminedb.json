@@ -1,0 +1,309 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Carmine Idle"
+		},
+		{
+			"offsets": [
+				28,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine Left"
+		},
+		{
+			"offsets": [
+				5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine Down"
+		},
+		{
+			"offsets": [
+				0,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine Up"
+		},
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine Right"
+		},
+		{
+			"offsets": [
+				28,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine LeftBB"
+		},
+		{
+			"offsets": [
+				5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine DownBB"
+		},
+		{
+			"offsets": [
+				0,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine UpBB"
+		},
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Carmine RightBB"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Carmine LeftMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Carmine DownMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Carmine UpMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Carmine RightMiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				5
+			],
+			"anim": "comeOn",
+			"fps": 24,
+			"name": "Carmine ComeOn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CarmineDB",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "carmine",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		95,
+		95
+	],
+	"camera_position": [
+		-250,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -5,19 +5,59 @@
 				60000,
 				[
 					[
-						"Dadbattle Spotlight",
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"SetCamZoom",
 						"1",
 						""
 					]
 				]
 			],
 			[
-				71437.5,
+				72000,
 				[
 					[
-						"Dadbattle Spotlight",
-						"0",
+						"SetCamZoom",
+						"0.7",
 						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"SetCamZoom",
+						"0.7",
+						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
 					]
 				]
 			]

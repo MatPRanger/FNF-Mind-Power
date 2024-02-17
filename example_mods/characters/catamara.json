@@ -1,57 +1,58 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-27,
 				-23
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Catamara Left"
+			"fps": 24,
+			"name": "Catamara Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-48,
 				-123
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Catamara Down"
+			"fps": 24,
+			"name": "Catamara Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				87
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Catamara Up"
+			"fps": 24,
+			"name": "Catamara Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-96,
 				-21
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Catamara Right"
+			"fps": 24,
+			"name": "Catamara Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "Catamara Idle",
 			"indices": [
 				1,
 				2,
@@ -65,17 +66,17 @@
 				10,
 				11,
 				12
-			],
-			"name": "Catamara Idle"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Catamara Idle",
 			"indices": [
 				13,
 				14,
@@ -90,8 +91,7 @@
 				23,
 				24,
 				25
-			],
-			"name": "Catamara Idle"
+			]
 		}
 	],
 	"no_antialiasing": false,
@@ -100,16 +100,16 @@
 		0,
 		80
 	],
-	"healthicon": "dad",
+	"healthicon": "jade",
 	"flip_x": false,
 	"healthbar_colors": [
-		55,
-		215,
-		55
+		95,
+		255,
+		95
 	],
 	"camera_position": [
-		60,
-		0
+		180,
+		40
 	],
 	"sing_duration": 6.1,
 	"scale": 1

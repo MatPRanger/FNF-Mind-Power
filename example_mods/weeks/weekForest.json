@@ -1,0 +1,49 @@
+{
+	"storyName": "Ambrosia Forest",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Trust",
+			"chloe",
+			[
+				140,
+				255,
+				255
+			]
+		],
+		[
+			"Starting Over",
+			"chloe",
+			[
+				140,
+				255,
+				255
+			]
+		],
+		[
+			"Horizons",
+			"chloe",
+			[
+				140,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "MPWeek1"
+}

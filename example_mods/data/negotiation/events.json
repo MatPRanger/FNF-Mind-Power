@@ -655,24 +655,14 @@
 						"chloe"
 					],
 					[
-						"Dadbattle Spotlight",
-						"1",
+						"SetCamZoom",
+						"0.85",
 						""
 					],
 					[
-						"Dadbattle Spotlight",
-						"2",
-						""
-					]
-				]
-			],
-			[
-				81454.5454545455,
-				[
-					[
-						"Dadbattle Spotlight",
-						"3",
-						""
+						"ColorFlash",
+						"000000",
+						"5"
 					]
 				]
 			],
@@ -680,9 +670,14 @@
 				87272.7272727273,
 				[
 					[
-						"Dadbattle Spotlight",
-						"0",
+						"SetCamZoom",
+						"0.7",
 						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.3"
 					]
 				]
 			],

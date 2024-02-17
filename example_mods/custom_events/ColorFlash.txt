@@ -1,0 +1,2 @@
+Value 1: Flash Hex Code (6 characters, no hashtag)
+Value 2: Flash Duration (In seconds, I think)

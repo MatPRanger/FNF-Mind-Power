@@ -1,0 +1,49 @@
+{
+	"storyName": "Work in Progress...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mischief",
+			"jade",
+			[
+				100,
+				255,
+				100
+			]
+		],
+		[
+			"Paralysis",
+			"monster",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Traitor",
+			"pico",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "PsychorWIP"
+}

@@ -1,11 +1,16 @@
 {
 	"song": {
-		"speed": 2.6,
-		"stage": "doubtful",
-		"player1": "carminvisible",
-		"player2": "doubtful",
-		"player3": null,
 		"events": [
+			[
+				0,
+				[
+					[
+						"DarkDeath",
+						"",
+						""
+					]
+				]
+			],
 			[
 				61440,
 				[
@@ -13,6 +18,11 @@
 						"Play Animation",
 						"bgdark",
 						""
+					],
+					[
+						"ColorFlash",
+						"000000",
+						"1"
 					]
 				]
 			],
@@ -183,6 +193,11 @@
 						"Play Animation",
 						"bgstatic",
 						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"1"
 					]
 				]
 			],
@@ -193,6 +208,11 @@
 						"Play Animation",
 						"bgdark",
 						""
+					],
+					[
+						"ColorFlash",
+						"000000",
+						"1"
 					]
 				]
 			],
@@ -363,17 +383,14 @@
 						"Play Animation",
 						"bgstatic",
 						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"1"
 					]
 				]
 			]
-		],
-		"notes": [],
-		"splashSkin": "noteSplashes",
-		"validScore": false,
-		"gfVersion": "nogf",
-		"bpm": 125,
-		"arrowSkin": "",
-		"needsVoices": true,
-		"song": "Doubtful"
+		]
 	}
 }

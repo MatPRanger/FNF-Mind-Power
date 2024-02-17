@@ -1,8 +1,69 @@
 {
 	"song": {
-		"player1": "bf",
-		"player2": "pico",
-		"events": [],
+		"player1": "carmine",
+		"player2": "denial",
+		"events": [
+			[
+				60000,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"SetCamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"SetCamZoom",
+						"0.7",
+						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"SetCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"SetCamZoom",
+						"0.7",
+						""
+					],
+					[
+						"ColorFlash",
+						"FFFFFF",
+						"0.5"
+					]
+				]
+			]
+		],
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -7097,6 +7158,26 @@
 				"bpm": 160
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -7111,7 +7192,7 @@
 		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "Traitor",
-		"stage": "stage",
+		"stage": "wip",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
